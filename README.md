@@ -7,12 +7,6 @@ Welcome to the **Combining Playwright & GenAI with Zerostep** repository! This p
 - [Features](#features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-  - [Running Tests](#running-tests)
-  - [Integrating GenAI](#integrating-genai)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
